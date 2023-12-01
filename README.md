@@ -4,11 +4,11 @@
 
 一．HTML5 中的语义化标签有哪些？
 
-包括<header>、<nav>、<article>、<section>、<aside>、<footer>等
+包括header、nav、article、section、aside、footer等
 
 二．HTML5 中的多媒体支持哪些？
 
-HTML5 提供了内置的多媒体支持，包括<audio>和<video>标签，用于在网页上嵌入音频和视频内容。
+HTML5 提供了内置的多媒体支持，包括audio和video标签，用于在网页上嵌入音频和视频内容。
 
 三．HTML5 中的本地存储有哪些机制？
 
@@ -124,7 +124,7 @@ reverse： 数组反转，改变原数组
 
 项目性能优化方案
 
-动态加载组件 <component :is="componA" />
+动态加载组件 component :is="componA" 
 
 减少 http 请求
 
